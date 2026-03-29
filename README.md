@@ -1,9 +1,9 @@
 # 🌐 Computer Networks Lab Assignments
 
-**Student:** Lavnish Pandey
-**Programme:** B.Tech Computer Science and Engineering (CSE)
-**Section:** C
-**Subject:** Computer Networks (ENCS304)
+- **Student:** Lavnish Pandey
+- **Programme:** B.Tech Computer Science and Engineering (CSE)
+- **Section:** C
+- **Subject:** Computer Networks (ENCS304)
 
 ---
 
